@@ -13,7 +13,7 @@
     •	Shuffle mechanics
     •	Speculative execution
 ________________________________________
-## 2. RDD Fundamentals (Yes, still matters for L6/L7)
+## 2. RDD Fundamentals (Still matters for L6/L7)
     •	RDD creation (parallelize, textFile, wholeTextFiles)
     •	RDD transformations (map, flatMap, filter, reduceByKey)
     •	RDD actions (collect, count, take)
@@ -117,7 +117,7 @@ ________________________________________
     •	Small file problem
     •	File compaction strategies
 ________________________________________
-# 🔷 LAYER 3 — DATA LAKEHOUSE & TABLE FORMATS (YOUR CORE STRENGTH)
+# 🔷 LAYER 3 — DATA LAKEHOUSE & TABLE FORMATS (CORE STRENGTH)
 ## 11. Apache Iceberg
     •	Table metadata
     •	Manifest files
@@ -134,7 +134,7 @@ ________________________________________
     •	Concurrency control
     •	ACID guarantees
 ________________________________________
-## 12. Delta Lake (Interview must-know even if not using)
+## 12. Delta Lake (must-know)
     •	Transaction log
     •	Checkpointing
     •	Schema enforcement
@@ -152,7 +152,7 @@ ________________________________________
     •	Incremental queries
     •	Compaction
 ________________________________________
-# 🔷 LAYER 4 — STREAMING (FAANG CORE)
+# 🔷 LAYER 4 — STREAMING ( CORE)
 ## 14. Structured Streaming
     •	Micro-batching vs continuous
     •	Sources (Kafka, Kinesis, Files, Sockets)
@@ -312,7 +312,6 @@ ________________________________________
     •	Event partitioning
 ________________________________________
 # 🔷 LAYER 10 — INTERVIEW-SPECIFIC MUST-KNOWS
-## 31. Explain Like a FAANG L7
 ### You must be able to explain:
     •	How Spark executes a join internally
     •	How Iceberg ensures ACID
@@ -332,7 +331,7 @@ ________________________________________
 # 🚨 REALITY CHECK
 ### Most candidates know:
     •	30–40% of this list
-### FAANG L6/L7 expects:
+###  L6/L7 expects:
     •	70–85% mastery
     •	Deep explanations
     •	Trade-offs
