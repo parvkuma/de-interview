@@ -27,3 +27,22 @@
 - Data SLAs per tenant
 
 - Chargeback / FinOps
+
+
+# 2️⃣ Autonomous Data Platform (Self-Healing Pipelines)
+
+### What you build
+
+- Pipelines that: Detect schema drift
+- Auto-evolve schemas (with allowlists)
+- Retry intelligently
+- Quarantine bad data
+
+** God-level twist
+ - Pipelines fix themselves without humans
+
+### Must include
+
+- Metadata-driven orchestration
+- Failure classification
+- Blast-radius containment
